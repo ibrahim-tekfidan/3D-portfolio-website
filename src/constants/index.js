@@ -4,6 +4,7 @@ import {
   teamCollaboration,
   havelsan,
   cbiko,
+  freelance,
   javascript,
   typescript,
   html,
@@ -94,29 +95,39 @@ const technologies = [
 
 const experiences = [
   {
-    title: 'React.js Developer',
-    company_name: 'HAVELSAN Intern',
-    icon: havelsan,
-    iconBg: '#383E56',
-    date: 'August 2023 - September 2021',
+    title: 'Full Stack Web Developer Intern',
+    company_name: 'T.C. Human Resource Office Intern',
+    icon: cbiko,
+    iconBg: '#E6DEDD/Users/ibrahimtekfidan/Downloads/freelance.svg',
+    date: 'June 2023 - July 2023',
     points: [
-      'Developing and maintaining web applications using React.js and other related technologies.',
-      'Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.',
+      'Developing and maintaining project tracking web applications using React.js and Express.js technologies.',
+      'I integrated secure authentication functionality into my project. I utilized a JWT (JSON Web Token) based authentication mechanism to ensure users can securely log in and access authorized features.',
       'Implementing responsive design and ensuring cross-browser compatibility.',
-      'Participating in code reviews and providing constructive feedback to other developers.',
     ],
   },
   {
-    title: 'Web Developer',
-    company_name: 'T.C. Human Resource Offic Intern',
-    icon: cbiko,
+    title: 'React.js Developer Intern',
+    company_name: 'HAVELSAN Intern',
+    icon: havelsan,
     iconBg: '#E6DEDD',
-    date: 'June 2023 - July 2023',
+    date: 'August 2023 - September 2023',
+    points: [
+      'Developing and maintaining AI based web applications using React.js and other related technologies.',
+      'The project was developed utilizing AI APIs from OPENAI and D-ID.',
+      'Implementing responsive design and ensuring cross-browser compatibility.',
+    ],
+  },
+  {
+    title: 'Frontend Developer',
+    company_name: 'Freelancer',
+    icon: freelance,
+    iconBg: '#E6DEDD',
+    date: 'October 2023 - Present',
     points: [
       'Developing and maintaining web applications using React.js and other related technologies.',
-      'Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.',
+
       'Implementing responsive design and ensuring cross-browser compatibility.',
-      'Participating in code reviews and providing constructive feedback to other developers.',
     ],
   },
 ];

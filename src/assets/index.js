@@ -19,6 +19,7 @@ import threejs from './tech/threejs.svg';
 
 import havelsan from './company/havelsan.png';
 import cbiko from './company/cbiko.png';
+import freelance from './company/freelance.png';
 
 import game from './game-explorer.png';
 import fitness from './fitness-club-center.png';
@@ -44,6 +45,7 @@ export {
   threejs,
   cbiko,
   havelsan,
+  freelance,
   game,
   fitness,
   festival,
