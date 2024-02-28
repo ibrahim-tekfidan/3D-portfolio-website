@@ -135,69 +135,68 @@ const experiences = [
 const projects = [
   {
     name: 'Game Expolorer',
-    description: '',
+    description:
+      'Game Explorer is a web application developed for users who want to explore the gaming world and gather information about games.',
+
     tags: [
       {
         name: 'react',
         color: 'blue-text-gradient',
       },
       {
-        name: 'Chakra UI',
+        name: 'reactquery',
+        color: 'pink-text-gradient',
+      },
+      {
+        name: 'zustand',
         color: 'green-text-gradient',
-      },
-      {
-        name: 'React Query',
-        color: 'pink-text-gradient',
-      },
-      {
-        name: 'Zustand',
-        color: 'pink-text-gradient',
       },
     ],
     image: game,
     source_code_link: 'https://github.com/ibrahim-tekfidan/game-explorer',
+    live_link: 'https://game-explorer-steel.vercel.app/',
   },
 
   {
     name: 'Fitness Club Center',
-    description: '',
+    description:
+      'Fitness Club Center is a web application developed for users who want to explore the exercise. Provided instructions for each exercise and linked tutorial YouTube videos. Included a section at the bottom suggesting similar exercises based on selected previous exercise.',
     tags: [
       {
         name: 'react',
         color: 'blue-text-gradient',
       },
       {
-        name: 'Chakra UI',
+        name: 'reactquery',
+        color: 'pink-text-gradient',
+      },
+      {
+        name: 'zustand',
         color: 'green-text-gradient',
-      },
-      {
-        name: 'React Query',
-        color: 'pink-text-gradient',
-      },
-      {
-        name: 'Zustand',
-        color: 'pink-text-gradient',
       },
     ],
     image: fitness,
     source_code_link: 'https://github.com/ibrahim-tekfidan/fitness-club-center',
+    live_link: 'https://fitness-club-center.vercel.app/',
   },
 
   {
     name: 'Festival Journey',
-    description: '',
+    description:
+      'This project was developed using Scss and HTML5. While developing this project, advance css properties were used.',
     tags: [
       {
-        name: 'HTML',
+        name: 'html5',
         color: 'blue-text-gradient',
       },
       {
-        name: 'Sass',
+        name: 'scss',
         color: 'green-text-gradient',
       },
     ],
     image: festival,
     source_code_link: 'https://github.com/ibrahim-tekfidan/festival-journey',
+    live_link: 'https://festival-journey.vercel.app/',
   },
 ];
 

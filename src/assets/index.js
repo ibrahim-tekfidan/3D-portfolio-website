@@ -3,6 +3,7 @@ import teamCollaboration from './teamCollaboration.png';
 import web from './web.png';
 import problemSolving from './problemSolving.png';
 import github from './github.png';
+import golive from './golive.svg';
 import menu from './menu.svg';
 import close from './close.svg';
 
@@ -31,6 +32,7 @@ export {
   web,
   problemSolving,
   github,
+  golive,
   menu,
   close,
   css,
