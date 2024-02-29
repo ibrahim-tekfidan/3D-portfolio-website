@@ -1,5 +1,7 @@
 import {
   web,
+  ui_ux,
+  figma,
   problemSolving,
   teamCollaboration,
   havelsan,
@@ -39,6 +41,10 @@ const services = [
   {
     title: 'Frontend Developer',
     icon: web,
+  },
+  {
+    title: 'UI/UX Designer',
+    icon: ui_ux,
   },
   {
     title: 'Problem Solving',
@@ -90,6 +96,10 @@ const technologies = [
   {
     name: 'git',
     icon: git,
+  },
+  {
+    name: 'Figma',
+    icon: figma,
   },
 ];
 

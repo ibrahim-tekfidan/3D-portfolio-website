@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import teamCollaboration from './teamCollaboration.png';
+import ui_ux from './ui_ux.png';
 import web from './web.png';
 import problemSolving from './problemSolving.png';
 import github from './github.png';
@@ -17,6 +18,7 @@ import reactjs from './tech/reactjs.png';
 import tailwind from './tech/tailwind.png';
 import typescript from './tech/typescript.png';
 import threejs from './tech/threejs.svg';
+import figma from './tech/figma.png';
 
 import havelsan from './company/havelsan.png';
 import cbiko from './company/cbiko.png';
@@ -30,6 +32,7 @@ export {
   logo,
   teamCollaboration,
   web,
+  ui_ux,
   problemSolving,
   github,
   golive,
@@ -37,6 +40,7 @@ export {
   close,
   css,
   git,
+  figma,
   html,
   javascript,
   mongodb,
